@@ -17,3 +17,6 @@ patch:
 #   谷歌 - google
 #   晒经石 - solarized_rock
 #   简约白 - clean_white
+#
+  app_options/com.runningwithcrayons.Alfred:
+    ascii_mode: true
