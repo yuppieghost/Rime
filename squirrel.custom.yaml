@@ -20,3 +20,5 @@ patch:
 #
   app_options/com.runningwithcrayons.Alfred:
     ascii_mode: true
+  app_options/com.torusknot.SourceTreeNotMAS:
+    ascii_mode: true
