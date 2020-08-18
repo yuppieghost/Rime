@@ -1,24 +1,35 @@
 patch:
-  style/color_scheme: mojave_dark        # 选择配色方案
-    # style/color_scheme: purity_of_essence        # 选择配色方案
-  style/horizontal: true                 # 候选窗横向显示
-  style/inline_preedit: false            # 关闭内嵌编码，这样就可以显示首行的拼音
-  style/corner_radius: 5
-  style/font_point: 16                   # 字号
-  
-# 注：预设的配色方案及代码（指定为 style/color_scheme ）
-#   碧水 - aqua
-#   青天 - azure
-#   明月 - luna
-#   墨池 - ink
-#   孤寺 - lost_temple
-#   暗堂 - dark_temple
-#   星际我争霸 - starcraft
-#   谷歌 - google
-#   晒经石 - solarized_rock
-#   简约白 - clean_white
-#
-  app_options/com.runningwithcrayons.Alfred:
-    ascii_mode: true
-  app_options/com.torusknot.SourceTreeNotMAS:
-    ascii_mode: true
+  style:
+    color_scheme: mojave_dark
+
+  preset_color_schemes:
+    mojave_dark:
+      name: "沙漠夜／Mojave Dark"
+      author: "xiehuc <xiehuc@gmail.com>"
+      alpha: 0.9
+      horizontal: true
+      inline_preedit: true
+      candidate_format: "%c %@ "
+      corner_radius: 5
+      hilited_corner_radius: 0
+      border_height: 6
+      border_width: 12
+      border_color_width: 0
+      font_face: PingFangSC
+      font_point: 17
+      label_font_point: 12
+      text_color: 0xffffff
+      back_color: 0x1e1e1e
+      label_color: 0x888785
+      border_color: 0x717171
+      candidate_text_color: 0xffffff
+      hilited_text_color: 0xffffff
+      hilited_back_color: 0x1e1e1e
+      hilited_candidate_text_color: 0xffffff
+      # hilited_candidate_back_color: 0xcb5d00
+      hilited_candidate_label_color: 0x888785
+      comment_text_color: 0xdedddd
+
+  app_options: {}
+  # "app_options/com.apple.finder":
+      # ascii_mode: true

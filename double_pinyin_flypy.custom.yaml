@@ -3,3 +3,13 @@ __patch:
   - patch/+:
       __include: emoji_suggestion:/patch
 # }
+patch:
+  engine/processors:
+    # - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
