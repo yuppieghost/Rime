@@ -13,3 +13,4 @@ patch:
     - selector
     - navigator
     - express_editor
+  translator/preedit_format: []

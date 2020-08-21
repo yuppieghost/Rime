@@ -1,0 +1,668 @@
+啊    a    3
+爱    ai    1
+爱不    ai bu    1
+爱不释手    ai bu shi shou    1
+安排    an pai    1
+安全    an quan    1
+安逸    an yi    1
+安逸时    an yi shi    1
+安枕无忧    an zhen wu you    2
+安枕无忧了    an zhen wu you le    2
+安装    an zhuang    1
+吧    ba    1
+爸爸    ba ba    1
+爸爸给你    ba ba gei ni    1
+拜拜    bai bai    1
+帮忙    bang mang    1
+帮我    bang wo    1
+宝宝    bao bao    1
+宝贝    bao bei    1
+被毁灭    bei hui mie    1
+被毁灭的    bei hui mie de    2
+北京    bei jing    1
+本来    ben lai    1
+笨拙    ben zhuo    1
+泵    beng    1
+比较    bi jiao    1
+必须    bi xu    1
+便有不同    bian you bu tong    2
+别    bie    1
+别人    bie ren    1
+不    bu    2
+不必要    bu bi yao    1
+不错    bu cuo    1
+不断    bu duan    1
+不断面对    bu duan mian dui    2
+不断面对各种    bu duan mian dui ge zhong    1
+不管    bu guan    2
+不管什么东西    bu guan shen me dong xi    2
+不过    bu guo    1
+不好    bu hao    1
+不好意思    bu hao yi si    1
+不会    bu hui    1
+不劳而获    bu lao er huo    2
+不劳而获的    bu lao er huo de    2
+不能    bu neng    1
+不去    bu qu    1
+不然    bu ran    1
+不是    bu shi    1
+不想    bu xiang    1
+不行    bu xing    1
+不要    bu yao    1
+不用    bu yong    1
+不在    bu zai    1
+不真实    bu zhen shi    2
+不知道    bu zhi dao    1
+才    cai    1
+菜单    cai dan    1
+菜单中    cai dan zhong    1
+才会    cai hui    1
+才会得以    cai hui de yi    1
+才会得以生存    cai hui de yi sheng cun    2
+材料    cai liao    2
+材料化学    cai liao hua xue    1
+差不多    cha bu duo    1
+查询    cha xun    2
+产品    chan pin    1
+吃    chi    1
+吃饭    chi fan    1
+出来    chu lai    1
+处理    chu li    1
+出去    chu qu    1
+错误的    cuo wu de    2
+大    da    3
+大大    da da    1
+打电话    da dian hua    1
+大概    da gai    2
+大概我    da gai wo    1
+大家    da jia    1
+打开    da kai    1
+打开文件    da kai wen jian    1
+大为    da wei    1
+大学    da xue    1
+但    dan    3
+但是    dan shi    2
+单位    dan wei    1
+但依旧去做    dan yi jiu qu zuo    1
+但这是    dan zhe shi    1
+但这是错误的    dan zhe shi cuo wu de    1
+当然    dang ran    1
+到    dao    1
+导出    dao chu    1
+到时候    dao shi hou    1
+的    de    21
+的我都    de wo dou    2
+得以生存    de yi sheng cun    1
+的意义    de yi yi    1
+等    deng    1
+等等    deng deng    1
+等下    deng xia    1
+地方    di fang    1
+地址    di zhi    1
+点    dian    1
+电话    dian hua    1
+电脑    dian nao    1
+东西    dong xi    1
+都    dou    1
+都是    dou shi    1
+都有失去的    dou you shi qu de    1
+都在    dou zai    2
+都在不断    dou zai bu duan    1
+都在不断面对    dou zai bu duan mian dui    1
+对    dui    1
+多    duo    1
+多少    duo shao    1
+额    e    1
+嗯    en    1
+嗯嗯    en en    1
+嗯呢    en ne    1
+而且    er qie    1
+发    fa    1
+发货    fa huo    1
+阀门    fa men    1
+发票    fa piao    1
+发现    fa xian    1
+发展    fa zhan    1
+反正    fan zheng    1
+费用    fei yong    1
+分钟    fen zhong    1
+付款    fu kuan    1
+副食    fu shi    1
+副食加工    fu shi jia gong    1
+服务    fu wu    1
+辅助    fu zhu    1
+感觉    gan jue    1
+干嘛    gan ma    1
+刚才    gang cai    1
+刚刚    gang gang    1
+高度    gao du    2
+告诉    gao su    1
+个    ge    2
+哥哥    ge ge    1
+各级    ge ji    1
+个人    ge ren    1
+各种    ge zhong    2
+各种困难    ge zhong kun nan    2
+给    gei    1
+给你    gei ni    2
+给你装    gei ni zhuang    1
+给我    gei wo    1
+跟    gen    1
+更新    geng xin    1
+工程    gong cheng    1
+公司    gong si    1
+公众    gong zhong    1
+工资    gong zi    1
+工作    gong zuo    1
+估计    gu ji    1
+管理    guan li    1
+关系    guan xi    1
+关于    guan yu    1
+广州    guang zhou    1
+过    guo    1
+过来    guo lai    1
+过去    guo qu    1
+哈    ha    1
+哈哈    ha ha    1
+哈哈哈    ha ha ha    1
+还    hai    1
+还好    hai hao    1
+还没    hai mei    1
+还是    hai shi    1
+还要    hai yao    1
+还有    hai you    1
+还在    hai zai    1
+孩子    hai zi    1
+好    hao    1
+好吧    hao ba    1
+好的    hao de    1
+好多    hao duo    1
+好好    hao hao    1
+好看    hao kan    1
+好了    hao le    1
+号码    hao ma    1
+好像    hao xiang    1
+和    he    1
+合成    he cheng    1
+合成材料    he cheng cai liao    1
+呵呵    he he    1
+合同    he tong    1
+合约    he yue    1
+合约信息统计    he yue xin xi tong ji    1
+嘿嘿    hei hei    1
+很    hen    1
+很多    hen duo    1
+很好    hen hao    1
+后面    hou mian    1
+话    hua    1
+化学    hua xue    3
+化学原料    hua xue yuan liao    1
+欢迎    huan ying    2
+欢迎使用    huan ying shi yong    1
+会    hui    2
+回家    hui jia    1
+回来    hui lai    1
+会拼命    hui pin ming    1
+回去    hui qu    1
+获得一些    huo de yi xie    1
+获得一些什么    huo de yi xie shen me    1
+活动    huo dong    1
+豁然    huo ran    1
+豁然开朗    huo ran kai lang    3
+豁然开朗了    huo ran kai lang le    3
+豁然开冷    huo ran kai leng    1
+或者    huo zhe    1
+基本    ji ben    1
+记得    ji de    1
+几个    ji ge    1
+计划    ji hua    1
+记录    ji lu    1
+记录查询    ji lu cha xun    1
+即使    ji shi    1
+即使知道    ji shi zhi dao    1
+技术    ji shu    1
+几天    ji tian    1
+继续    ji xu    1
+家    jia    1
+价格    jia ge    1
+加工    jia gong    1
+家里    jia li    1
+加油    jia you    1
+检查    jian cha    1
+鉴权    jian quan    1
+建议    jian yi    1
+叫    jiao    1
+侥幸    jiao xing    1
+侥幸获得一些    jiao xing huo de yi xie    1
+阶段不同    jie duan bu tong    2
+结果    jie guo    1
+结婚    jie hun    1
+姐姐    jie jie    1
+介绍    jie shao    1
+今年    jin nian    1
+今天    jin tian    1
+今晚    jin wan    1
+进行    jin xing    1
+进行练习    jin xing lian xi    1
+经理    jing li    1
+就    jiu    7
+就安枕无忧    jiu an zhen wu you    3
+就安枕无忧了    jiu an zhen wu you le    1
+就豁然    jiu huo ran    1
+就豁然开朗    jiu huo ran kai lang    3
+就是    jiu shi    1
+就行    jiu xing    1
+具体    ju ti    1
+觉得    jue de    3
+觉得不真实    jue de bu zhen shi    2
+开    kai    1
+开冷    kai leng    1
+开冷朗    kai leng lang    1
+开始    kai shi    1
+开心    kai xin    1
+看    kan    1
+槛    kan    4
+看到    kan dao    1
+看见    kan jian    1
+槛就    kan jiu    3
+看看    kan kan    1
+考虑    kao lv    1
+考试    kao shi    1
+客户    ke hu    1
+可能    ke neng    2
+可是    ke shi    1
+可以    ke yi    3
+肯定    ken ding    1
+空间    kong jian    1
+快递    kuai di    1
+快乐    kuai le    1
+困难    kun nan    5
+困难的    kun nan de    2
+困难的意义    kun nan de yi yi    1
+啦    la    1
+垃圾    la ji    1
+来    lai    1
+来了    lai le    1
+朗    lang    1
+朗了    lang le    1
+老板    lao ban    1
+老公    lao gong    1
+老婆    lao po    1
+老师    lao shi    1
+了    le    21
+厉害    li hai    1
+里面    li mian    1
+历史    li shi    1
+历史疫情    li shi yi qing    1
+联系    lian xi    1
+两个    liang ge    1
+了解    liao jie    1
+聊天    liao tian    1
+领导    ling dao    1
+吗    ma    1
+麻烦    ma fan    1
+妈妈    ma ma    1
+马上    ma shang    1
+买    mai    1
+买过    mai guo    1
+迈过    mai guo    1
+买过迈过    mai guo mai guo    1
+迈过这个    mai guo zhe ge    4
+迈过这个槛    mai guo zhe ge kan    3
+慢慢    man man    1
+毛    mao    1
+么    me    1
+没    mei    1
+妹妹    mei mei    1
+美女    mei nv    1
+没人    mei ren    1
+每日    mei ri    2
+每日合约    mei ri he yue    1
+每日疫情上报    mei ri yi qing shang bao    1
+没事    mei shi    1
+每天    mei tian    1
+没有    mei you    12
+密码    mi ma    1
+面对    mian dui    1
+面对各种    mian dui ge zhong    1
+明白    ming bai    1
+明天    ming tian    1
+名字    ming zi    1
+某个    mou ge    2
+某个高度    mou ge gao du    3
+目前    mu qian    1
+那    na    1
+那边    na bian    1
+那个    na ge    1
+那就    na jiu    1
+哪里    na li    1
+那么    na me    1
+那你    na ni    1
+那是    na shi    1
+那些    na xie    1
+那种    na zhong    1
+男人    nan ren    1
+呢    ne    1
+内容    nei rong    1
+能    neng    1
+你    ni    13
+你的    ni de    1
+你好    ni hao    1
+尼玛    ni ma    1
+你们    ni men    1
+你呢    ni ne    1
+你是    ni shi    1
+你说    ni shuo    1
+年    nian    1
+您    nin    1
+您好    nin hao    1
+女人    nv ren    1
+哦    o    1
+哦哦    o o    1
+欧若    ou ruo    1
+培训    pei xun    1
+朋友    peng you    1
+便宜    pian yi    1
+拼命    pin ming    1
+拼命让自己    pin ming rang zi ji    1
+平台    ping tai    1
+起来    qi lai    1
+其实    qi shi    1
+其他    qi ta    1
+企业    qi ye    1
+钱    qian    1
+亲    qin    1
+情况    qing kuang    1
+请问    qing wen    1
+请在    qing zai    1
+去    qu    1
+去配上    qu pei shang    1
+全部    quan bu    1
+确定    que ding    1
+确认    que ren    1
+然后    ran hou    1
+让    rang    1
+让我    rang wo    1
+让自己    rang zi ji    1
+让自己去配上    rang zi ji qu pei shang    1
+人    ren    2
+人家    ren jia    1
+认识    ren shi    1
+认为    ren wei    3
+认为也许达到    ren wei ye xu da dao    3
+任务    ren wu    1
+人员    ren yuan    1
+人在    ren zai    2
+人在安逸    ren zai an yi    1
+日    ri    1
+如此    ru ci    1
+如果    ru guo    1
+如何    ru he    1
+散文    san wen    4
+上    shang    2
+上班    shang ban    1
+上次    shang ci    1
+上个    shang ge    1
+上海    shang hai    1
+上面    shang mian    1
+上午    shang wu    1
+设计    she ji    1
+什么    shen me    4
+什么东西    shen me dong xi    2
+什么    shen me    1
+申请    shen qing    1
+生存    sheng cun    1
+生活    sheng huo    1
+省网信办    sheng wang xin ban    4
+省网信办平台    sheng wang xin ban ping tai    1
+是    shi    5
+时    shi    1
+是啊    shi a    1
+是不劳而获    shi bu lao er huo    1
+是不是    shi bu shi    1
+是错误的    shi cuo wu de    1
+是的    shi de    1
+是否    shi fou    1
+时候    shi hou    1
+时间    shi jian    1
+视频    shi pin    1
+食品    shi pin    2
+食品副食    shi pin fu shi    1
+食品制造    shi pin zhi zao    1
+事情    shi qing    1
+试试    shi shi    1
+时是    shi shi    1
+实时    shi shi    1
+使用    shi yong    3
+使用爱    shi yong ai    1
+使用爱不释手    shi yong ai bu shi shou    1
+是最容易    shi zui rong yi    2
+收到    shou dao    1
+手机    shou ji    1
+数据    shu ju    1
+谁    shui    1
+睡觉    shui jiao    1
+说    shuo    1
+说话    shuo hua    1
+速度    su du    1
+溯源    su yuan    1
+算了    suan le    1
+随便    sui bian    1
+随时    sui shi    1
+所以    suo yi    1
+所以才会    suo yi cai hui    1
+所以才会如此    suo yi cai hui ru ci    1
+他    ta    1
+他们    ta men    1
+倘若我叫醒    tang ruo wo jiao xing    1
+淘宝    tao bao    1
+天天    tian tian    1
+天性    tian xing    1
+天性笨拙    tian xing ben zhuo    1
+天眼    tian yan    1
+挑战    tiao zhan    1
+通过    tong guo    1
+统计    tong ji    1
+同事    tong shi    1
+同学    tong xue    1
+通知    tong zhi    1
+图片    tu pian    1
+玩    wan    1
+晚安    wan an    1
+完成    wan cheng    1
+晚上    wan shang    1
+网上    wang shang    1
+为    wei    1
+为上    wei shang    1
+为什么    wei shen me    1
+文件    wen jian    2
+问题    wen ti    1
+问问    wen wen    1
+文章    wen zhang    1
+文章进行练习    wen zhang jin xing lian xi    1
+我    wo    16
+我的    wo de    1
+我都    wo dou    2
+我都觉得    wo dou jue de    2
+我就    wo jiu    1
+我就会    wo jiu hui    1
+我们    wo men    5
+我们这    wo men zhe    1
+我们这一辈子    wo men zhe yi bei zi    1
+我去    wo qu    1
+我是    wo shi    1
+我天性    wo tian xing    1
+我也    wo ye    1
+无聊    wu liao    1
+喜欢    xi huan    1
+系统    xi tong    1
+希望    xi wang    2
+希望一劳永逸    xi wang yi lao yong yi    1
+嘻嘻    xi xi    1
+下    xia    1
+下班    xia ban    1
+下次    xia ci    1
+下午    xia wu    1
+下载    xia zai    2
+先    xian    1
+纤维    xian wei    1
+纤维制造    xian wei zhi zao    1
+现在    xian zai    3
+想    xiang    1
+项目    xiang mu    1
+小    xiao    1
+小时    xiao shi    1
+销售    xiao shou    1
+谢谢    xie xie    1
+信息    xin xi    1
+信息上传    xin xi shang chuan    1
+信息上传鉴权    xin xi shang chuan jian quan    1
+信息统计    xin xi tong ji    1
+修改    xiu gai    1
+休息    xiu xi    1
+需要    xu yao    1
+选择    xuan ze    1
+选择文章    xuan ze wen zhang    1
+学生    xue sheng    1
+学习    xue xi    1
+学校    xue xiao    1
+呀    ya    1
+颜色    yan se    1
+要    yao    1
+要不    yao bu    1
+要感谢    yao gan xie    2
+要感谢困难    yao gan xie kun nan    2
+要求    yao qiu    1
+要是    yao shi    1
+也    ye    1
+也是    ye shi    1
+也许达到    ye xu da dao    3
+也许达到某个    ye xu da dao mou ge    2
+一    yi    1
+一般    yi ban    1
+一辈子    yi bei zi    1
+一辈子都在    yi bei zi dou zai    1
+一次    yi ci    1
+一点    yi dian    1
+一定    yi ding    1
+衣服    yi fu    1
+一个    yi ge    1
+一个人    yi ge ren    1
+以后    yi hou    1
+以后你会    yi hou ni hui    1
+以后你会明白    yi hou ni hui ming bai    2
+一会    yi hui    1
+已经    yi jing    1
+一劳永逸    yi lao yong yi    4
+一起    yi qi    1
+以前    yi qian    1
+疫情    yi qing    4
+疫情查询    yi qing cha xun    1
+疫情记录    yi qing ji lu    1
+疫情上报    yi qing shang bao    2
+疫情统计    yi qing tong ji    1
+疫情医院    yi qing yi yuan    1
+意思    yi si    1
+一天    yi tian    1
+以为    yi wei    1
+一下    yi xia    1
+一些    yi xie    1
+一样    yi yang    1
+意义    yi yi    2
+意义便有不同    yi yi bian you bu tong    2
+医院    yi yuan    4
+医院各级    yi yuan ge ji    1
+医院信息上传    yi yuan xin xi shang chuan    1
+一直    yi zhi    3
+一直迎接    yi zhi ying jie    1
+一直迎接挑战    yi zhi ying jie tiao zhan    1
+银行    yin hang    1
+因为    yin wei    1
+应该    ying gai    1
+迎接    ying jie    1
+迎接挑战    ying jie tiao zhan    2
+用    yong    1
+有    you    1
+有点    you dian    1
+有个    you ge    1
+有没有    you mei you    1
+有人    you ren    1
+有事    you shi    1
+游戏    you xi    1
+有限    you xian    1
+有些    you xie    1
+有些不必要    you xie bu bi yao    1
+元    yuan    1
+原来    yuan lai    1
+原料    yuan liao    1
+月    yue    1
+月份    yue fen    1
+在    zai    2
+在家    zai jia    1
+在吗    zai ma    1
+咱们    zan men    1
+早上    zao shang    1
+怎么    zen me    1
+怎么了    zen me le    1
+怎么样    zen me yang    1
+怎么    zen me    1
+找    zhao    1
+照片    zhao pian    1
+这    zhe    2
+这边    zhe bian    1
+这个    zhe ge    2
+这个槛    zhe ge kan    1
+这里    zhe li    1
+这么    zhe me    1
+这是    zhe shi    2
+这是错误的    zhe shi cuo wu de    2
+这些    zhe xie    1
+这样    zhe yang    1
+这一辈子    zhe yi bei zi    2
+这一辈子都在    zhe yi bei zi dou zai    1
+这种    zhe zhong    1
+真    zhen    1
+真的    zhen de    1
+真是    zhen shi    1
+正常    zheng chang    1
+知道    zhi dao    2
+知道有些    zhi dao you xie    1
+之后    zhi hou    1
+直接    zhi jie    1
+质量    zhi liang    1
+只能    zhi neng    1
+之前    zhi qian    1
+只是    zhi shi    3
+只是阶段不同    zhi shi jie duan bu tong    2
+只要    zhi yao    2
+只要是    zhi yao shi    2
+只有    zhi you    3
+只有一直    zhi you yi zhi    2
+制造    zhi zao    2
+中    zhong    3
+中大    zhong da    1
+中国    zhong guo    1
+中午    zhong wu    1
+中心    zhong xin    1
+中选择    zhong xuan ze    1
+主要    zhu yao    1
+注意    zhu yi    1
+专业    zhuan ye    1
+装    zhuang    1
+准备    zhun bei    1
+自己    zi ji    1
+自己所得到    zi ji suo de dao    1
+自己所得到的    zi ji suo de dao de    1
+资料    zi liao    1
+总希望    zong xi wang    3
+总想着    zong xiang zhe    4
+总想着买过    zong xiang zhe mai guo    1
+最好    zui hao    1
+最后    zui hou    1
+最近    zui jin    1
+最容易    zui rong yi    2
+最容易被毁灭    zui rong yi bei hui mie    1
+做    zuo    1
+昨天    zuo tian    1
+左右    zuo you    1
+
